@@ -1,0 +1,76 @@
+const PAIRS = [
+  // Pair 1
+  { id: 'p1',
+    a: 'Scott Thebiay',
+    b: 'Cold, left over mac n cheese (SO GOOD!!!!!)'
+  },
+
+  // Pair 2
+  { id: 'p2',
+    a: 'Brady Banfield',
+    b: 'Pizza and homemade apple sauce'
+  },
+
+  // Pair 3
+  { id: 'p3',
+    a: 'Amanda Starker',
+    b: 'Frozen cheese sticks'
+  },
+
+  // Pair 4
+  { id: 'p4',
+    a: 'Dan Gruhn',
+    b: 'Sauerkraut'
+  },
+
+// Pair 5
+  { id: 'p5',
+    a: 'Brendan Borgues-Schroeder',
+    b: 'Pizza is bad'
+  },
+
+// Pair 6
+  { id: 'p6',
+    a: 'Juan Pablo Pigott',
+    b: 'Seaweed'
+  },
+
+// Pair 7
+  { id: 'p7',
+    a: 'Dan Zeller',
+    b: 'Kimchi/Fermented foods'
+  },
+
+// Pair 8
+  { id: 'p8',
+    a: 'Jean Johnson',
+    b: 'Cincinnati chili'
+  },
+
+// Pair 9
+  { id: 'p9',
+    a: 'Justin Rostad',
+    b: 'BBQ'
+  },
+
+// Pair 10
+  { id: 'p10',
+    a: 'Kathleen Goodenough',
+    b: 'Fried squirrel'
+  },
+
+// Pair 11
+  { id: 'p11',
+    a: 'Tina Bengston',
+    b: 'Toast - peanut butter - bacon'
+  },
+
+// Pair 12
+  { id: 'p12',
+    a: 'Kimberly Stelling',
+    b: 'Sauerkraut'
+  },
+
+
+];
+``
